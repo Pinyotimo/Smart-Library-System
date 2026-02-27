@@ -1,3 +1,3 @@
 # __init__.py
-from .core import Book, Library
+from .core import Book, Library, DigitalBook
 from .utils import track_access, permission_check, borrow_item
